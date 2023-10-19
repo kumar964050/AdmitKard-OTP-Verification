@@ -1,0 +1,6 @@
+/home/nxtwave/ide-exam/src/main/java/com/example/inventory/model/Item.java
+/home/nxtwave/ide-exam/src/main/java/com/example/inventory/service/ItemJpaService.java
+/home/nxtwave/ide-exam/src/main/java/com/example/inventory/repository/ItemJpaRepository.java
+/home/nxtwave/ide-exam/src/main/java/com/example/inventory/repository/ItemRepository.java
+/home/nxtwave/ide-exam/src/main/java/com/example/inventory/InventoryManagementApplication.java
+/home/nxtwave/ide-exam/src/main/java/com/example/inventory/controller/ItemController.java
